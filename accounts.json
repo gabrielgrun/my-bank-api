@@ -1,0 +1,25 @@
+{
+  "nextId": 6,
+  "accounts": [
+    {
+      "name": "Gabriel Grün",
+      "balance": 300,
+      "id": 1
+    },
+    {
+      "id": 3,
+      "name": "Bernardo Silva",
+      "balance": 2500
+    },
+    {
+      "id": 4,
+      "name": "Aderbal Nigro Ribeiro",
+      "balance": 1130
+    },
+    {
+      "id": 5,
+      "name": "Singleton Jallr",
+      "balance": 2130
+    }
+  ]
+}
